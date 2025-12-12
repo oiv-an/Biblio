@@ -8,7 +8,7 @@ Here are all prompts for various AI systems.
 
 ### [Маркетинговый копирайтер](../../categories/ai-tools/chatgpt-prompts/prompt-marketing-copywriter.md)
 - **Категория / Category:** AI-инструменты
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Рейтинг / Rating:** ⭐⭐⭐⭐
 - **Описание / Description:** Промпт для создания маркетинговых текстов для различных каналов продвижения
 - **Description:** Prompt for creating marketing texts for various promotion channels
@@ -27,7 +27,7 @@ Here are all prompts for various AI systems.
 
 - **Всего материалов / Total Materials:** 1
 - **Категории / Categories:** AI-инструменты
-- **Авторы / Authors:** Ivan Olyansky
+- **Авторы / Authors:** Ivan Olyanskiy
 - **Средний рейтинг / Average Rating:** 5.0/5
 
 ---

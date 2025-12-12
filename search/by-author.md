@@ -6,7 +6,7 @@ This section contains materials grouped by authors for easy tracking of specific
 
 ## Авторы / Authors
 
-### Ivan Olyansky
+### Ivan Olyanskiy
 
 #### AI-инструменты и промпты / AI Tools and Prompts
 
@@ -34,7 +34,7 @@ This section contains materials grouped by authors for easy tracking of specific
 
 | Автор / Author | Количество материалов / Materials Count | Категории / Categories |
 |---------------|--------------------------------------|------------------------|
-| Ivan Olyansky | 4 | AI-инструменты, Разработка, Ресурсы, Статьи |
+| Ivan Olyanskiy | 4 | AI-инструменты, Разработка, Ресурсы, Статьи |
 
 ---
 

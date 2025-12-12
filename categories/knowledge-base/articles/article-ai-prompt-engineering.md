@@ -6,7 +6,7 @@ description_en: "Guide to creating effective prompts for neural networks"
 category: "knowledge-base"
 subcategory: "articles"
 tags: ["article", "ai", "prompt", "engineering", "guide", "ru", "en"]
-author: "Ivan Olyansky"
+author: "Ivan Olyanskiy"
 date_created: "2025-12-12"
 date_updated: "2025-12-12"
 language: "both"
@@ -181,7 +181,7 @@ Prompt Engineering is a skill that improves with practice. Experiment with diffe
 
 ## Метаданные / Metadata
 
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Дата создания / Created:** 2025-12-12
 - **Обновлено / Updated:** 2025-12-12
 - **Категория / Category:** knowledge-base

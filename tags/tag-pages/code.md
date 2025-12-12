@@ -8,7 +8,7 @@ Here are all materials related to programming and code.
 
 ### [Debounce функция на JavaScript](../../categories/development/code-snippets/snippet-javascript-debounce.md)
 - **Категория / Category:** Разработка и программирование
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Рейтинг / Rating:** ⭐⭐⭐⭐
 - **Описание / Description:** Универсальная debounce функция для оптимизации обработки событий
 - **Description:** Universal debounce function for optimizing event handling
@@ -28,7 +28,7 @@ Here are all materials related to programming and code.
 
 - **Всего материалов / Total Materials:** 1
 - **Категории / Categories:** Разработка и программирование
-- **Авторы / Authors:** Ivan Olyansky
+- **Авторы / Authors:** Ivan Olyanskiy
 - **Средний рейтинг / Average Rating:** 5.0/5
 
 ---

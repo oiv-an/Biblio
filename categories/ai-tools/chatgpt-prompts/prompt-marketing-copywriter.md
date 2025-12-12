@@ -6,7 +6,7 @@ description_en: "Prompt for creating marketing texts for various promotion chann
 category: "ai-tools"
 subcategory: "chatgpt-prompts"
 tags: ["prompt", "chatgpt", "marketing", "copywriting", "ru", "en"]
-author: "Ivan Olyansky"
+author: "Ivan Olyanskiy"
 date_created: "2025-12-12"
 date_updated: "2025-12-12"
 language: "both"
@@ -112,7 +112,7 @@ You are a social media marketing expert. Create viral-worthy content for:
 
 ## Метаданные / Metadata
 
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Дата создания / Created:** 2025-12-12
 - **Обновлено / Updated:** 2025-12-12
 - **Категория / Category:** ai-tools

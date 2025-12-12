@@ -8,7 +8,7 @@ Here are all tools and utilities for various tasks.
 
 ### [ColorHexa](../../categories/useful-resources/websites/website-color-hex.md)
 - **Категория / Category:** Полезные ресурсы
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Рейтинг / Rating:** ⭐⭐⭐⭐
 - **Описание / Description:** Комплексный инструмент для работы с цветами: конвертация, палитры, информация о цветах
 - **Description:** Comprehensive color tool: conversion, palettes, color information
@@ -28,7 +28,7 @@ Here are all tools and utilities for various tasks.
 
 - **Всего материалов / Total Materials:** 1
 - **Категории / Categories:** Полезные ресурсы
-- **Авторы / Authors:** Ivan Olyansky
+- **Авторы / Authors:** Ivan Olyanskiy
 - **Средний рейтинг / Average Rating:** 5.0/5
 
 ---

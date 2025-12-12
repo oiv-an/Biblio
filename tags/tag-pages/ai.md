@@ -8,7 +8,7 @@ Here are all materials related to artificial intelligence.
 
 ### [Маркетинговый копирайтер](../../categories/ai-tools/chatgpt-prompts/prompt-marketing-copywriter.md)
 - **Категория / Category:** AI-инструменты
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Рейтинг / Rating:** ⭐⭐⭐⭐⭐
 - **Описание / Description:** Промпт для создания маркетинговых текстов для различных каналов продвижения
 - **Description:** Prompt for creating marketing texts for various promotion channels
@@ -17,7 +17,7 @@ Here are all materials related to artificial intelligence.
 
 ### [Основы Prompt Engineering](../../categories/knowledge-base/articles/article-ai-prompt-engineering.md)
 - **Категория / Category:** База знаний
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Рейтинг / Rating:** ⭐⭐⭐⭐⭐
 - **Описание / Description:** Руководство по созданию эффективных промптов для нейросетей
 - **Description:** Guide to creating effective prompts for neural networks
@@ -36,7 +36,7 @@ Here are all materials related to artificial intelligence.
 
 - **Всего материалов / Total Materials:** 2
 - **Категории / Categories:** AI-инструменты, База знаний
-- **Авторы / Authors:** Ivan Olyansky
+- **Авторы / Authors:** Ivan Olyanskiy
 - **Средний рейтинг / Average Rating:** 5.0/5
 
 ---

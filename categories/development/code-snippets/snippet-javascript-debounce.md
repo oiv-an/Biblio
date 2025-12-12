@@ -6,7 +6,7 @@ description_en: "Universal debounce function for optimizing event handling"
 category: "development"
 subcategory: "code-snippets"
 tags: ["code", "javascript", "snippet", "performance", "optimization", "ru", "en"]
-author: "Ivan Olyansky"
+author: "Ivan Olyanskiy"
 date_created: "2025-12-12"
 date_updated: "2025-12-12"
 language: "both"
@@ -203,7 +203,7 @@ function debounce<T extends (...args: any[]) => any>(
 
 ## Метаданные / Metadata
 
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Дата создания / Created:** 2025-12-12
 - **Обновлено / Updated:** 2025-12-12
 - **Категория / Category:** development

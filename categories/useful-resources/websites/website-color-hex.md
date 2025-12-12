@@ -6,7 +6,7 @@ description_en: "Comprehensive color tool: conversion, palettes, color informati
 category: "useful-resources"
 subcategory: "websites"
 tags: ["website", "color", "design", "tool", "palette", "ru", "en"]
-author: "Ivan Olyansky"
+author: "Ivan Olyanskiy"
 date_created: "2025-12-12"
 date_updated: "2025-12-12"
 language: "both"
@@ -75,7 +75,7 @@ ColorHexa is a powerful online color tool that provides comprehensive informatio
 
 ## Метаданные / Metadata
 
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Дата создания / Created:** 2025-12-12
 - **Обновлено / Updated:** 2025-12-12
 - **Категория / Category:** useful-resources
