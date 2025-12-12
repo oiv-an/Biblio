@@ -1,15 +1,15 @@
-# Материалы с тегом #ai / Materials with tag #ai
+# Материалы с тегом #programming / Materials with tag #programming
 
-Здесь собраны все материалы, связанные с искусственным интеллектом.
+Здесь собраны все материалы, связанные с программированием.
 
-Here are all materials related to artificial intelligence.
+Here are all materials related to programming.
 
-## Статьи об AI / AI Articles
+## Статьи о программировании / Programming Articles
 
 ### [Как начать программировать с AI бесплатно](../../categories/knowledge-base/articles/article-ai-programming-free.md)
 - **Категория / Category:** База знаний
 - **Автор / Author:** Ivan Olyanskiy
-- **Рейтинг / Rating:** ⭐⭐⭐⭐⭐
+- **Рейтинг / Rating:** ⭐⭐⭐⭐
 - **Описание / Description:** Инструкция по получению бесплатного доступа к AI-моделям для программирования
 - **Description:** Guide to getting free access to AI models for programming
 
@@ -17,7 +17,7 @@ Here are all materials related to artificial intelligence.
 
 ## Связанные теги / Related Tags
 
-- [`#programming`](programming.md) - Программирование / Programming
+- [`#ai`](ai.md) - Искусственный интеллект / Artificial intelligence
 - [`#free`](free.md) - Бесплатные ресурсы / Free resources
 - [`#tools`](tools.md) - Инструменты / Tools
 

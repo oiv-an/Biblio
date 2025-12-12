@@ -6,7 +6,7 @@ description_en: "Guide to getting free access to AI models for programming"
 category: "knowledge-base"
 subcategory: "articles"
 tags: ["article", "ai", "programming", "free", "tools", "ru", "en"]
-author: "Ivan Olyansky"
+author: "Ivan Olyanskiy"
 date_created: "2025-12-12"
 date_updated: "2025-12-12"
 language: "both"
@@ -75,7 +75,7 @@ This is an excellent opportunity to try modern AI tools for programming without 
 
 ## Метаданные / Metadata
 
-- **Автор / Author:** Ivan Olyansky
+- **Автор / Author:** Ivan Olyanskiy
 - **Дата создания / Created:** 2025-12-12
 - **Обновлено / Updated:** 2025-12-12
 - **Категория / Category:** knowledge-base
