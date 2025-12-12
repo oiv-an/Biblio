@@ -10,7 +10,7 @@ Biblio - это открытая библиотека знаний для хра
 
 ## Текущее содержимое
 
-- [Как начать программировать с AI бесплатно](categories/knowledge-base/articles/article-ai-programming-free.md) - инструкция по получению доступа к AI-моделям
+- [Как начать программировать с AI бесплатно](categories/knowledge-base/articles/article-ai-programming-free.md) - инструкция по получению доступа к AI-моделям (deepseek V3.2 и GLM 4.6)
 
 ## Теги
 

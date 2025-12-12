@@ -17,6 +17,10 @@ external_url: "https://agentrouter.org/register?aff=DduP"
 
 ## Как начать программировать с AI бесплатно / How to Start Programming with AI for Free
 
+**Важно:** Данная инструкция касается только моделей deepseek V3.2 и GLM 4.6.
+
+**Important:** This instruction applies only to deepseek V3.2 and GLM 4.6 models.
+
 Есть модель GLM-4.6, которая показывает хорошие результаты в задачах по программированию. Сейчас к ней можно получить доступ без вложений.
 
 There is a GLM-4.6 model that shows good results in programming tasks. Currently, you can get access to it without investments.
